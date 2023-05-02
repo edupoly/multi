@@ -1,0 +1,32 @@
+<html>
+<body>
+    <div id="box" style="border: 1px solid black;width: 300px;height: 200px;">
+
+    </div><br>
+    <button onclick="red()">Red</button>
+    <button onclick="green()">Green</button>
+    <button onclick="yellow()">Yellow</button>
+    <button onclick="reset()">Reset</button>
+     
+
+    <script>
+     function red(){
+          var red = document.getElementById('box');
+          red.style.backgroundColor = 'red';
+     }
+     function green(){
+        var green = document.getElementById('box');
+        green.style.backgroundColor = 'green';
+     }
+     function yellow(){
+        var yellow = document.getElementById('box');
+        yellow.style.backgroundColor = 'yellow';
+     }
+     function reset(){
+        var reset = document.getElementById('box');
+        reset.style.backgroundColor = 'none';
+     }
+
+    </script>
+</body>
+</html>

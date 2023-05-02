@@ -1,0 +1,727 @@
+{
+  "Hostels": [
+    {
+      "Name": "Sree Harshita Hostel",
+      "NumberOfBeds": 200,
+      "AvailableBeds": 75,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 4,
+      "Votes": 225,
+      "Since": "Jan 2023",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "TV",
+        "Locker",
+        "Power Backup",
+        "CCTV",
+        "Geyser(24*7)",
+        "Refrigerator"
+      ],
+      "Contact": "+91-6546616626",
+      "Area": "Kphb",
+      "Image": "https://media.cntraveler.com/photos/53e2f3f0dddaa35c30f6668f/16:9/w_2580,c_limit/home-lisbon-portugal.jpg",
+      "id": 1
+    },
+    {
+      "Name": "Sri Nidhi Hostel",
+      "NumberOfBeds": 250,
+      "AvailableBeds": 125,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.9,
+      "Votes": 305,
+      "Since": "Feb 2023",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Refrigerator",
+        "CCTV",
+        "Geyser(24*7)"
+      ],
+      "Contact": "+91-9546616626",
+      "Area": "Madhapur",
+      "Image": "https://www.hostelworld.com/blog/wp-content/uploads/2016/05/Poets-Hostel-HD-16A.jpg",
+      "id": 2
+    },
+    {
+      "Name": "Sai Madhava Hostel",
+      "NumberOfBeds": 300,
+      "AvailableBeds": 175,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 4.3,
+      "Votes": 395,
+      "Since": "Aug 2022",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "AC",
+        "CCTV",
+        "Power Backup",
+        "Geyser(24*7)",
+        "Refrigerator"
+      ],
+      "Contact": "+91-7546616626",
+      "Image": "https://www.hostelworld.com/blog/wp-content/uploads/2018/06/Hostel-room-types-Hostel-Celica-1.jpg",
+      "Area": "Kphb",
+      "id": 3
+    },
+    {
+      "Name": "Madhu P.G Men's Hostel",
+      "NumberOfBeds": 180,
+      "AvailableBeds": 55,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 4,
+      "Votes": 365,
+      "Since": "Feb 2021",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Curtains",
+        "CCTV",
+        "Geyser(24*7)"
+      ],
+      "Contact": "+91-8551554211",
+      "Image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hostel_Dormitory.jpg",
+      "Area": "Kondapur",
+      "id": 4
+    },
+    {
+      "Name": "Chandu P.G Men's Hostel",
+      "NumberOfBeds": 150,
+      "AvailableBeds": 25,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.8,
+      "Votes": 532,
+      "Since": "June 2021",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Refrigerator",
+        "Curtains",
+        "CCTV"
+      ],
+      "Contact": "+91-8262945278",
+      "Image": "https://i.pinimg.com/originals/0e/88/eb/0e88eb38d065052ac8dce31529ee83b6.jpg",
+      "Area": "LB nagar",
+      "id": 5
+    },
+    {
+      "Name": "Sri Ram P.G Men's Hostel",
+      "NumberOfBeds": 190,
+      "AvailableBeds": 65,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.9,
+      "Votes": 357,
+      "Since": "Sept 2022",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Power Backup",
+        "CCTV"
+      ],
+      "Contact": "+91-9542964215",
+      "Image": "https://www.thebrokebackpacker.com/wp-content/uploads/2021/08/The-bunks.jpg",
+      "Area": "Miyapur",
+      "id": 6
+    },
+    {
+      "Name": "My Home Sri Nidhi Luxury Pg Mens",
+      "NumberOfBeds": 200,
+      "AvailableBeds": 75,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.7,
+      "Votes": 142,
+      "Since": "Nov 2022",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Refrigerator",
+        "CCTV"
+      ],
+      "Contact": "+91-7479532927",
+      "Image": "https://assets-news.housing.com/news/wp-content/uploads/2022/03/30092033/featured-compressed-41.jpg",
+      "Area": "Kondapur",
+      "id": 7
+    },
+    {
+      "Name": "Suijth Accommodation For Men",
+      "NumberOfBeds": 185,
+      "AvailableBeds": 60,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.7,
+      "Votes": 513,
+      "Since": "Dec 2021",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Curtains",
+        "CCTV"
+      ],
+      "Contact": "+91-9842576135",
+      "Image": "https://thumbs.dreamstime.com/b/hostel-dormitory-beds-arranged-room-198687960.jpg",
+      "Area": "Madhapur",
+      "id": 8
+    },
+    {
+      "Name": "Sri Sai Krishna Deluxe Boys Hostels",
+      "NumberOfBeds": 215,
+      "AvailableBeds": 90,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.7,
+      "Votes": 452,
+      "Since": "Dec 2022",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Power Backup",
+        "CCTV"
+      ],
+      "Contact": "+91-8641597382",
+      "Image": "https://youthincmag.com/wp-content/uploads/2018/10/hostel-1.jpg",
+      "Area": "Raidurg",
+      "id": 9
+    },
+    {
+      "Name": "Manjeera Boys Hostel",
+      "NumberOfBeds": 206,
+      "AvailableBeds": 81,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.7,
+      "Votes": 425,
+      "Since": "July 2021",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Power Backup",
+        "Locker",
+        "TV",
+        "CCTV",
+        "Curtains"
+      ],
+      "Contact": "+91-7122658947",
+      "Image": "https://kiit.ac.in/wp-content/uploads/2022/03/KIIT-hostel-2-sharing.jpg",
+      "Area": "Bala Nagar",
+      "id": 10
+    },
+    {
+      "Name": "Sujith Luxury Accommodation",
+      "NumberOfBeds": 200,
+      "AvailableBeds": 75,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 4.1,
+      "Votes": 404,
+      "Since": "Oct 2022",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "Power Backup",
+        "TV",
+        "AC",
+        "Geyser(24*7)",
+        "Curtains",
+        "CCTV"
+      ],
+      "Contact": "+91-9632794115",
+      "Image": "https://www.japan-guide.com/g21/2030_01.jpg",
+      "Area": "Paradise Circle",
+      "id": 11
+    },
+    {
+      "Name": "Star Deluxe Mens Hostel",
+      "NumberOfBeds": 250,
+      "AvailableBeds": 125,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 4.1,
+      "Votes": 112,
+      "Since": "Oct 2021",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Power Backup",
+        "CCTV",
+        "Geyser(24*7)"
+      ],
+      "Contact": "+91-6945871269",
+      "Image": "https://uploads-ssl.webflow.com/5d51bb7d8483edf0d0390257/5e90283ebc1f1264ea7dbf42_festival_resized.jpg",
+      "Area": "Kondapur",
+      "id": 12
+    },
+    {
+      "Name": "Sri Sai Executive Boys Hostel",
+      "NumberOfBeds": 240,
+      "AvailableBeds": 115,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.7,
+      "Votes": 46,
+      "Since": "July 2018",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Refrigerator",
+        "CCTV"
+      ],
+      "Contact": "+91-9354867821",
+      "Image": "https://www.hostelworld.com/blog/wp-content/uploads/2018/06/Hostel-room-types-Homestay-Cave-Hostel.jpg",
+      "Area": "Bala Nagar",
+      "id": 13
+    },
+    {
+      "Name": "Vasu Deva PG Mens & Womens Hostel",
+      "NumberOfBeds": 220,
+      "AvailableBeds": 95,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.3,
+      "Votes": 12,
+      "Since": "Feb 2019",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Refrigerator",
+        "CCTV",
+        "Power Backup"
+      ],
+      "Contact": "+91-7835216490",
+      "Image": "https://www.outlookindia.com/outlooktraveller/public/uploads/filemanager/images/Moustache-Hostel.jpg",
+      "Area": "Kphb",
+      "id": 14
+    },
+    {
+      "Name": "PIONEERS BOY'S AND MEN'S HOSTEL",
+      "NumberOfBeds": 230,
+      "AvailableBeds": 85,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.9,
+      "Votes": 34,
+      "Since": "Jan 2022",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Refrigerator",
+        "Power Backup",
+        "CCTV"
+      ],
+      "Contact": "+91-8206051435",
+      "Image": "https://content.jdmagicbox.com/comp/rajahmundry/b3/9999px883.x883.171109090504.j2b3/catalogue/satya-sai-ladies-hostel-rajahmundry-0qn5p7kd5y.jpg",
+      "Area": "Paradise Circle",
+      "id": 15
+    },
+    {
+      "Name": "GVK Pg Hostels",
+      "NumberOfBeds": 196,
+      "AvailableBeds": 71,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 4.3,
+      "Votes": 592,
+      "Since": "Mar 2022",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Curtains",
+        "Refrigerator",
+        "CCTV",
+        "AC",
+        "Power Backup",
+        "Geyser(24*7)"
+      ],
+      "Contact": "+91-8054026501",
+      "Image": "https://img.staticmb.com/mbphoto/pg/grd2/cropped_images/2023/Apr/11/Photo_h400_w540/GR2-363359-1717335_400_540.jpg",
+      "Area": "Miyapur",
+      "id": 16
+    },
+    {
+      "Name": "Shiva Sai Executive Men's Hostel",
+      "NumberOfBeds": 205,
+      "AvailableBeds": 80,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.5,
+      "Votes": 100,
+      "Since": "April 2021",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Power Backup",
+        "Refrigerator",
+        "CCTV"
+      ],
+      "Contact": "+91-8457023458",
+      "Image": "https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2017/04/16/Pictures/olympus-digital-camera_9db84436-2260-11e7-a5a9-704c25d3160d.jpg",
+      "Area": "Manikonda",
+      "id": 17
+    },
+    {
+      "Name": "Rohith Men's Hostel",
+      "NumberOfBeds": 244,
+      "AvailableBeds": 119,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.9,
+      "Votes": 108,
+      "Since": "Sept 2021",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Power Backup",
+        "CCTV"
+      ],
+      "Contact": "+91-9854763210",
+      "Image": "https://res.cloudinary.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/v1594884135/Website/CMS-Uploads/hw7k0wl307qrp7ywuvsj.jpg",
+      "Area": "LB nagar",
+      "id": 18
+    },
+    {
+      "Name": "Rukmini Women's Hostel",
+      "NumberOfBeds": 280,
+      "AvailableBeds": 155,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 4.4,
+      "Votes": 108,
+      "Since": "Nov 2021",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "Refrigerator",
+        "CCTV",
+        "Power Backup",
+        "AC",
+        "Geyser(24*7)"
+      ],
+      "Contact": "+91-7542092699",
+      "Image": "https://q-xx.bstatic.com/xdata/images/hotel/max1200/235554140.jpg?k=52c56681367174540e20cae1f058c078187f0ae85f3c84b67c6d587517ba8b11&o=",
+      "Area": "Raidurg",
+      "id": 19
+    },
+    {
+      "Name": "Rahul Men's Hostel",
+      "NumberOfBeds": 270,
+      "AvailableBeds": 145,
+      "Roomsharing": {
+        "OneSharing": 15000,
+        "TwoSharing": 9000,
+        "ThreeSharing": 7500,
+        "FourSharing": 6500,
+        "FiveSharing": 5500,
+        "SixSharing": 5000
+      },
+      "Rating": 3.95,
+      "Votes": 222,
+      "Since": "June 2022",
+      "Facilities": [
+        "Food",
+        "Water",
+        "Washing Machine",
+        "Wifi",
+        "Locker",
+        "TV",
+        "AC",
+        "Curtains",
+        "Geyser(24*7)",
+        "Power Backup",
+        "CCTV"
+      ],
+      "Contact": "+91-9927546891",
+      "Image": "https://res.cloudinary.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/v1580397985/Website/CMS-Uploads/simnexk7sh8wljr9oriy.jpg",
+      "Area": "Manikonda",
+      "id": 20
+    }
+  ],
+  "Beds": [
+    {
+      "Roomid": "101",
+      "Status": "Not Available",
+      "Current Tenants": [
+        "Ram",
+        "Raju",
+        "Ravi"
+      ],
+      "Old Tenants": [
+        "Raghu",
+        "Ravinder",
+        "Rana"
+      ],
+      "id": 1
+    },
+    {
+      "Roomid": "102",
+      "Status": "Available",
+      "Current Tenants": [],
+      "Old Tenants": [
+        "Arun",
+        "Varun",
+        "Tarun"
+      ],
+      "id": 2
+    },
+    {
+      "RoomId": "101",
+      "Status": "avail",
+      "CurrentTenants": "jagan,pk,cbn,kcr",
+      "id": 3
+    }
+  ],
+  "Tenants": [
+    {
+      "Name": "Sai Vikaas",
+      "ContactNumber": 8965445610,
+      "Address": [
+        "Shyam Colony,Hindupuran,Hampi"
+      ],
+      "id": 1
+    },
+    {
+      "Name": "Sree Aditya",
+      "ContactNumber": 8935848610,
+      "Address": [
+        "Samiksh Nagar,Hiranagar,Rajkot"
+      ],
+      "id": 2
+    },
+    {
+      "Name": "qwertyui",
+      "ContactNumber": "9807654321",
+      "Address": [
+        "argdwfdger,refabfdb,rbeabreb,beabareb"
+      ],
+      "id": 3
+    }
+  ],
+  "Signup": [
+    {
+      "Username": "",
+      "Fullname": "",
+      "Mobile": "",
+      "Email": "",
+      "Pincode": "",
+      "City": "",
+      "State": "",
+      "Password": "",
+      "id": 1
+    },
+    {
+      "Username": "shankarburner",
+      "Fullname": "Sai Shankar",
+      "Mobile": "9484842982",
+      "Email": "yhbadv@vbsh.com",
+      "Pincode": "576565",
+      "City": "vadsv",
+      "State": "bfgsbg",
+      "Password": "Vanjangi@01",
+      "RePassword": "Vanjangi@01",
+      "id": 2
+    },
+    {
+      "Username": "Whiteraven01",
+      "Fullname": "Sri Sai Kumar ",
+      "Mobile": "9484842923",
+      "Email": "ybhav@yahoo.com",
+      "Pincode": "574456",
+      "City": "vzg",
+      "State": "Ap",
+      "Password": "Kumar@01",
+      "RePassword": "Kumar@01",
+      "id": 3
+    }
+  ]
+}

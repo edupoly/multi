@@ -1,0 +1,28 @@
+img{
+    margin-right: auto;
+}
+body, html {
+    height: 80%;
+  }
+  
+  p:hover{
+  color: blue;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .bg-hostel {
+    background-color: rgb(0,0,0); /* Fallback color */
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px
+  }
