@@ -17,9 +17,12 @@ const Booking = () => {
     setSelect(peta.target.value);
   };
 
-  axios.get("http://localhost:4000/Hostels").then((res) => {
-    setBooking([...res.data]);
-  });
+  React.useEffect(()=>{
+    axios.get("http://localhost:4000/Hostels").then((res) => {
+      setBooking([...res.data]);
+    });
+  },[]);
+
   let hostel = booking;
   const filteredSearch = hostel.filter(
     (item) =>

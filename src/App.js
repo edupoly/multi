@@ -12,7 +12,7 @@ function App() {
       >
         <i className="d-flex align-items-center ms-2 me-2">
           <a
-            href="http://localhost:3000"
+            href="/"
             className="text-decoration-none"
             style={{ fontSize: "25px", color: "gold" }}
           >
